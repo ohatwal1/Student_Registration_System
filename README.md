@@ -34,7 +34,7 @@
 - NetBeans 8.2 or Eclipse(Oxygen).
 - External Jars
 
-  - ojdbc7.jar
+  - ojdbc5.jar
   - rs2xml.jar
  - VPN (Optional)
  
